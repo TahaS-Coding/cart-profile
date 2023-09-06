@@ -4,7 +4,7 @@
     https://fonts.google.com/
     
   ----------------------------------------------------------------------- */
-  @import url(https://fonts.googleapis.com/css?family=Open+Sans:700,600,400,300);
+  @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
   /* --------------------------------------------------------------------
   
@@ -13,11 +13,11 @@
   
   ---------------------------------------------------------------------- */
   :root {
-      --color-lightest: #ffcdcd;
-      --color-light: #ee6c6c;
-      --color: #EC6565;
-      --color-dark: #ca4e4e;
-      --font: "Open Sans", Helvetica, sans-serif;
+      --color-lightest: #61caff;
+      --color-light: #5ca3ff;
+      --color: #3072a8;
+      --color-dark: #20617f;
+      --font: "Roboto", Helvetica, sans-serif;
   }
 
   /* -------------------------------------------------------------------
